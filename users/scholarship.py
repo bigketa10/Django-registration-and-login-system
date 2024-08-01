@@ -46,57 +46,72 @@ schol_type = {
     "agri_vet": {
         "Newcastle University": {
             "name": "John Pain Scholarship",
+            "desc": "Scholarship for students pursuing agriculture at Newcastle University.",
+            "eligibility": "Open to undergraduate students pursuing agriculture at Newcastle University.",
             "lvl_study": "Undergraduate",
             "location": "United Kingdom",
             "website": "https://www.ncl.ac.uk/undergraduate/fees-funding/scholarships-bursaries/subject-scholarships/agriculture/"
         },
         "University of Edinburgh": {
             "name": "Royal (Dick) School of Veterinary Studies International Scholarship",
+            "desc": "Scholarship for international students studying veterinary medicine at the University of Edinburgh.",
+            "eligibility": "Available for international students applying to the Royal (Dick) School of Veterinary Studies.",
             "lvl_study": "Undergraduate",
             "location": "United Kingdom",
             "website": "https://www.ed.ac.uk/student-funding/undergraduate/international/vet"
         },
         "Harper Adams University": {
             "name": "Douglas Bomford Trust Scholarship",
+            "desc": "Scholarship for undergraduate students in agriculture at Harper Adams University.",
+            "eligibility": "Open to undergraduate students pursuing agriculture at Harper Adams University.",
             "lvl_study": "Undergraduate",
             "location": "United Kingdom",
             "website": "https://www.harper-adams.ac.uk/apply/finance/scholarships/scholarship/17/douglas-bomford-trust-scholarship"
         },
         "Aberystwyth University": {
             "name": "CLA and Aberystwyth University Agriculture Scholarships",
+            "desc": "Scholarships offered by CLA and Aberystwyth University for agriculture students.",
+            "eligibility": "Available for undergraduate students entering Aberystwyth University in agriculture-related fields.",
             "lvl_study": "Undergraduate",
             "location": "United Kingdom",
             "website": "https://www.aber.ac.uk/en/study-with-us/ug-studies/scholarships/departmental/cla/#:~:text=CLA%20and%20Aberystwyth%20University%20Agriculture,for%20entry%20in%20September%202024."
         },
         "Writtle University College": {
             "name": "Elinor Roper Scholarship",
+            "desc": "Scholarship for Masters students at Writtle University College.",
+            "eligibility": "Available for Masters students studying agriculture at Writtle University College.",
             "lvl_study": "Masters",
             "location": "United Kingdom",
             "website": "https://writtle.ac.uk/scholarships.cfm?Scholarship=147&nohead=1&nofooter=1"
         },
         "Royal Agricultural University": {
             "name": "Clyde Higgs Postgraduate Scholarship",
+            "desc": "Scholarship for postgraduate students at the Royal Agricultural University.",
+            "eligibility": "Open to postgraduate students in agriculture at the Royal Agricultural University.",
             "lvl_study": "Masters",
             "location": "United Kingdom",
             "website": "https://www.rau.ac.uk/student-life/finance-scholarships-and-bursaries/clyde-higgs-postgraduate-scholarship"
         },
         "University of Leeds": {
             "name": "Faculty of Biological Sciences International Excellence Scholarships",
+            "desc": "Scholarships for international students in biological sciences, including agriculture, at the University of Leeds.",
+            "eligibility": "Open to international students demonstrating excellence in biological sciences, including agriculture.",
             "lvl_study": "Masters",
             "location": "United Kingdom",
             "website": "https://biologicalsciences.leeds.ac.uk/directory_record/523/faculty-of-biological-sciences-international-excellence-scholarships"
         },
         "University of East Anglia": {
             "name": "The Chadacre Trust Scholarship",
+            "desc": "Scholarship for Masters students at the University of East Anglia.",
+            "eligibility": "Available for Masters students studying agriculture or related fields at the University of East Anglia.",
             "lvl_study": "Masters",
             "location": "United Kingdom",
             "website": "https://www.uea.ac.uk/study/fees-and-funding/scholarships/the-chadacre-trust-scholarship"
         },
         "University of Nottingham": {
             "name": "Nottingham Trent University Agriculture Scholarship",
-            "desc": "Scholarships for international students in agriculture and related fields.",
-            "eligibility": '''Open to students demonstrating academic excellence and a commitment to the field of agriculture.
-                            Applicants should have an offer to study at Nottingham Trent University.''',
+            "desc": "Scholarships for international students in agriculture and related fields at Nottingham Trent University.",
+            "eligibility": "Open to students demonstrating academic excellence and a commitment to agriculture, with an offer from Nottingham Trent University.",
             "lvl_study": "Undergraduate",
             "location": "United Kingdom",
             "website": "https://www.ntu.ac.uk/study-and-courses/courses/our-schools/animal-rural-and-environmental-sciences"

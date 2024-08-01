@@ -105,18 +105,13 @@ from django.shortcuts import render
 from .scholarship import schol_type  # Ensure you have the correct path to import schol_type
 
 def generic_view(request):
-    # Access the generic scholarships from the dictionary
     generic_scholarships = schol_type.get("generic", {})
-
-    # Pass the generic scholarships data to the template
     return render(request, 'users/generic.html', {'generic_scholarships': generic_scholarships})
 
+def agri_vet_view(request):
+    agri_vet_scholarships = schol_type.get("agri_vet", {})
+    return render(request, 'users/agri_vet.html', {'agri_vet_scholarships': agri_vet_scholarships})
 
-def agriculture_view(request):
-    return render(request, 'users/agriculture.html')
-
-def search_view(request):
-    return render(request, 'users/search.html')
 
 # from .scholarship import schol_type
 
